@@ -14,3 +14,52 @@ Description: 77Theme-Rootless
 Author: CC
 Name: 77Theme-Rootless
 
+Package: com.curtin.pkc.rootless
+Version: 0.7-6
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/PKC_无根_0.7-6.deb
+Size: 872568
+MD5sum: f4286678000bf81389c28f234672e0c2
+SHA1: a3bb33c31f17992319b372289be5959388f45da9
+SHA256: 1c2aaafdd349aa33791bbd23ee99b4609699938cab63d1198ff5480fe444c3f4
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
+Package: com.pingfan.wechat
+Version: 2.2-5
+Architecture: iphoneos-arm
+Maintainer: 平凡
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/虚拟视频_2.2-5.deb
+Size: 1615860
+MD5sum: 87fdff8c8670a99ac25e95e5a274aa8c
+SHA1: 880f13dedb4f7c2a3857be1f1760f1f4b1081606
+SHA256: da81477bd15cd85ed494ca5710e49a4c11da81adc7f508e2d441e159b0285224
+Section: Tweaks
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏新增朋友圈转发、修改聊天时间等。
+Author: 平凡
+Name: 虚拟视频
+
+Package: com.tencent.themebox
+Version: 2.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 9108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/主题盒子_2.0.6_无根.deb
+Size: 4346928
+MD5sum: ea2b467a84bf9f11dd089653d5575d36
+SHA1: 48a9953f8cc9998be050c749f1e633d1c5b7c912
+SHA256: 5fd615318f9325898e4fc64155c674fe04f126da0ea80b8690733575c823860e
+Section: Tweaks
+Description: 微信主题盒子
+Author: WeChat
+Name: 主题盒子
+
